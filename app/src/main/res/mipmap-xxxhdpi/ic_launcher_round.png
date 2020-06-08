@@ -1,0 +1,175 @@
+[
+    {
+        "merged": "C:\\Users\\my\\Desktop\\andfun-kotlin-sleep-tracker-starter-code\\app\\build\\intermediates\\res\\merged\\debug\\animator_mtrl_chip_state_list_anim.xml.flat",
+        "source": "C:\\Users\\my\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\954734c2a07937d3b5f7f38ad0bd3865\\res\\animator\\mtrl_chip_state_list_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\my\\Desktop\\andfun-kotlin-sleep-tracker-starter-code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\my\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\d1b47ade10306e9190c301df1eeac205\\res\\drawable-xxhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\my\\Desktop\\andfun-kotlin-sleep-tracker-starter-code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "C:\\Users\\my\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\d1b47ade10306e9190c301df1eeac205\\res\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\my\\Desktop\\andfun-kotlin-sleep-tracker-starter-code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\my\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\0210770e327d198226d6a52b03d9266a\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\my\\Desktop\\andfun-kotlin-sleep-tracker-starter-code\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_search_url_text.xml.flat",
+        "source": "C:\\Users\\my\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\d1b47ade10306e9190c301df1eeac205\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\my\\Desktop\\andfun-kotlin-sleep-tracker-starter-code\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_dialog_material_background.xml.flat",
+        "source": "C:\\Users\\my\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\d1b47ade10306e9190c301df1eeac205\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\my\\Desktop\\andfun-kotlin-sleep-tracker-starter-code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\my\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\d1b47ade10306e9190c301df1eeac205\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\my\\Desktop\\andfun-kotlin-sleep-tracker-starter-code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\my\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\d1b47ade10306e9190c301df1eeac205\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\my\\Desktop\\andfun-kotlin-sleep-tracker-starter-code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\my\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\d1b47ade10306e9190c301df1eeac205\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\my\\Desktop\\andfun-kotlin-sleep-tracker-starter-code\\app\\build\\intermediates\\res\\merged\\debug\\color_design_error.xml.flat",
+        "source": "C:\\Users\\my\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\954734c2a07937d3b5f7f38ad0bd3865\\res\\color\\design_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\my\\Desktop\\andfun-kotlin-sleep-tracker-starter-code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\my\\Desktop\\andfun-kotlin-sleep-tracker-starter-code\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\my\\Desktop\\andfun-kotlin-sleep-tracker-starter-code\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21_design_bottom_sheet_slide_in.xml.flat",
+        "source": "C:\\Users\\my\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\954734c2a07937d3b5f7f38ad0bd3865\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\my\\Desktop\\andfun-kotlin-sleep-tracker-starter-code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_avd_hide_password.xml.flat",
+        "source": "C:\\Users\\my\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\954734c2a07937d3b5f7f38ad0bd3865\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\my\\Desktop\\andfun-kotlin-sleep-tracker-starter-code\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_sleep_5.xml.flat",
+        "source": "C:\\Users\\my\\Desktop\\andfun-kotlin-sleep-tracker-starter-code\\app\\src\\main\\res\\drawable\\ic_sleep_5.xml"
+    },
+    {
+        "merged": "C:\\Users\\my\\Desktop\\andfun-kotlin-sleep-tracker-starter-code\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_layout_snackbar.xml.flat",
+        "source": "C:\\Users\\my\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\954734c2a07937d3b5f7f38ad0bd3865\\res\\layout\\mtrl_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\my\\Desktop\\andfun-kotlin-sleep-tracker-starter-code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\my\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\d1b47ade10306e9190c301df1eeac205\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\my\\Desktop\\andfun-kotlin-sleep-tracker-starter-code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\my\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\d1b47ade10306e9190c301df1eeac205\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\my\\Desktop\\andfun-kotlin-sleep-tracker-starter-code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\my\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\d1b47ade10306e9190c301df1eeac205\\res\\drawable-ldrtl-mdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\my\\Desktop\\andfun-kotlin-sleep-tracker-starter-code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\my\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\0210770e327d198226d6a52b03d9266a\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\my\\Desktop\\andfun-kotlin-sleep-tracker-starter-code\\app\\build\\intermediates\\res\\merged\\debug\\animator_mtrl_fab_transformation_sheet_expand_spec.xml.flat",
+        "source": "C:\\Users\\my\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\954734c2a07937d3b5f7f38ad0bd3865\\res\\animator\\mtrl_fab_transformation_sheet_expand_spec.xml"
+    },
+    {
+        "merged": "C:\\Users\\my\\Desktop\\andfun-kotlin-sleep-tracker-starter-code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_sleep_tracker.png.flat",
+        "source": "C:\\Users\\my\\Desktop\\andfun-kotlin-sleep-tracker-starter-code\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_sleep_tracker.png"
+    },
+    {
+        "merged": "C:\\Users\\my\\Desktop\\andfun-kotlin-sleep-tracker-starter-code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\my\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\d1b47ade10306e9190c301df1eeac205\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\my\\Desktop\\andfun-kotlin-sleep-tracker-starter-code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\my\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\d1b47ade10306e9190c301df1eeac205\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\my\\Desktop\\andfun-kotlin-sleep-tracker-starter-code\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\my\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\0210770e327d198226d6a52b03d9266a\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\my\\Desktop\\andfun-kotlin-sleep-tracker-starter-code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\my\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\d1b47ade10306e9190c301df1eeac205\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\my\\Desktop\\andfun-kotlin-sleep-tracker-starter-code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "C:\\Users\\my\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\d1b47ade10306e9190c301df1eeac205\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\my\\Desktop\\andfun-kotlin-sleep-tracker-starter-code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_edit_text_material.xml.flat",
+        "source": "C:\\Users\\my\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\d1b47ade10306e9190c301df1eeac205\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\my\\Desktop\\andfun-kotlin-sleep-tracker-starter-code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\my\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\d1b47ade10306e9190c301df1eeac205\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\my\\Desktop\\andfun-kotlin-sleep-tracker-starter-code\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\my\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\0210770e327d198226d6a52b03d9266a\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\my\\Desktop\\andfun-kotlin-sleep-tracker-starter-code\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_sleep_tracker_background.xml.flat",
+        "source": "C:\\Users\\my\\Desktop\\andfun-kotlin-sleep-tracker-starter-code\\app\\src\\main\\res\\drawable\\ic_launcher_sleep_tracker_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\my\\Desktop\\andfun-kotlin-sleep-tracker-starter-code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\my\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\d1b47ade10306e9190c301df1eeac205\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\my\\Desktop\\andfun-kotlin-sleep-tracker-starter-code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\my\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\d1b47ade10306e9190c301df1eeac205\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\my\\Desktop\\andfun-kotlin-sleep-tracker-starter-code\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_btn_colored_borderless_text_material.xml.flat",
+        "source": "C:\\Users\\my\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\d1b47ade10306e9190c301df1eeac205\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\my\\Desktop\\andfun-kotlin-sleep-tracker-starter-code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\my\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\d1b47ade10306e9190c301df1eeac205\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\my\\Desktop\\andfun-kotlin-sleep-tracker-starter-code\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_clear_material.xml.flat",
+        "source": "C:\\Users\\my\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\d1b47ade10306e9190c301df1eeac205\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\my\\Desktop\\andfun-kotlin-sleep-tracker-starter-code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\my\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\d1b47ade10306e9190c301df1eeac205\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\my\\Desktop\\andfun-kotlin-sleep-tracker-starter-code\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_hint_foreground_material_dark.xml.flat",
+        "source": "C:\\Users\\my\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\d1b47ade10306e9190c301df1eeac205\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\my\\Desktop\\andfun-kotlin-sleep-tracker-starter-code\\app\\build\\intermediates\\res\\merged\\debug\\layout-watch-v20_abc_alert_dialog_button_bar_material.xml.flat",
+        "source": "C:\\Users\\my\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\d1b47ade10306e9190c301df1eeac205\\res\\layout-watch-v20\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\my\\Desktop\\andfun-kotlin-sleep-tracker-starter-code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\my\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\d1b47ade10306e9190c301df1eeac205\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\my\\Desktop\\andfun-kotlin-sleep-tracker-starter-code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\my\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\d1b47ade10306e9190c301df1eeac205\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\my\\Desktop\\andfun-kotlin-sleep-tracker-starter-code\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mtrl_tabs_default_indicator.xml.flat",
+        "source": "C:\\Users\\my\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\954734c2a07937d3b5f7f38ad0bd3865\\res\\drawable\\mtrl_tabs_default_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\my\\Desktop\\andfun-kotlin-sleep-tracker-starter-code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\my\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\d1b47ade10306e9190c301df1eeac205\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\my\\Desktop\\andfun-kotlin-sleep-tracker-starter-code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\my\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\d1b47ade10306e9190c301df1eeac205\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\my\\Desktop\\andfun-kotlin-sleep-tracker-starter-code\\app\\build\\intermediates\\res\\
